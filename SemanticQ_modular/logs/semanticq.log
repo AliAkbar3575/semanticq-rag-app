@@ -1,0 +1,23 @@
+2026-05-05 16:10:50,445 - __main__ - INFO - ==================================================
+2026-05-05 16:10:50,460 - __main__ - INFO - SemanticQ Application Starting...
+2026-05-05 16:10:50,460 - __main__ - INFO - Log file: logs/semanticq.log
+2026-05-05 16:10:50,460 - __main__ - INFO - ==================================================
+2026-05-05 16:11:14,840 - __main__ - INFO - ==================================================
+2026-05-05 16:11:14,844 - __main__ - INFO - SemanticQ Application Starting...
+2026-05-05 16:11:14,853 - __main__ - INFO - Log file: logs/semanticq.log
+2026-05-05 16:11:14,854 - __main__ - INFO - ==================================================
+2026-05-05 16:11:15,203 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-05 16:12:07,886 - __main__ - INFO - ==================================================
+2026-05-05 16:12:07,887 - __main__ - INFO - SemanticQ Application Starting...
+2026-05-05 16:12:07,891 - __main__ - INFO - Log file: logs/semanticq.log
+2026-05-05 16:12:07,893 - __main__ - INFO - ==================================================
+2026-05-05 16:12:08,347 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-05 16:12:17,545 - __main__ - INFO - ==================================================
+2026-05-05 16:12:17,586 - __main__ - INFO - SemanticQ Application Starting...
+2026-05-05 16:12:17,587 - __main__ - INFO - Log file: logs/semanticq.log
+2026-05-05 16:12:17,600 - __main__ - INFO - ==================================================
+2026-05-05 16:12:33,239 - __main__ - INFO - ==================================================
+2026-05-05 16:12:33,246 - __main__ - INFO - SemanticQ Application Starting...
+2026-05-05 16:12:33,248 - __main__ - INFO - Log file: logs/semanticq.log
+2026-05-05 16:12:33,249 - __main__ - INFO - ==================================================
+2026-05-05 16:12:33,663 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
