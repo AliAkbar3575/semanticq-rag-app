@@ -1,0 +1,5 @@
+google-generativeai
+langchain-google-genai
+pinecone
+langchain-pinecone
+langchain-huggingface
